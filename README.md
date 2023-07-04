@@ -1,2 +1,4 @@
-# Combinatorial-Optimisation
-All of my codes on different topics of Combinatorial Optimization Course. (CSE-301)
+# Topic wise problems for Competitive Programming
+In this repository, I will keep various topic related problems that I'll solve. 
+
+__________________________________________________________________________________________________________________________________________
